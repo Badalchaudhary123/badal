@@ -1,0 +1,140 @@
+
+.header{
+    justify-content: center;
+    display: flex;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+
+
+.star{
+   
+    color: red;
+    text-align: center;
+    margin: left;
+    font-weight: 100;
+    top: 10px;
+    
+}
+
+.navbar{
+     background-color: green;
+    display: flex;
+    color: white;
+    width: 100x;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    justify-content: space-around;
+}
+
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.navbar div{
+padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar div:hover{
+    background-color: orange;
+}
+
+
+.container{
+    display: flex;
+    width: 100%;
+}
+
+.sidebar{
+    width: 30%;
+    background-color: antiquewhite;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+    
+    
+}
+
+
+
+
+
+.sidebar h2{
+    text-align: center;
+}
+
+.sidebar ul{
+    width: fit-content;
+    margin: auto;
+}
+
+.content{
+    width: 70%;
+    padding: 20px 25px;
+}
+
+ul li{
+    margin-bottom: 10px;
+}
+
+.feed{
+    max-height: 300px;
+    overflow: scroll;
+}
+
+
+.img-contetn{
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: 700;
+    
+}
+
+.img-content img{
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
